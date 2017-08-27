@@ -1,0 +1,3 @@
+<keymap version="1" name="Default for KDE copy" parent="Default for KDE">
+  <action id="SurroundWith" />
+</keymap>
