@@ -1,9 +1,7 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="SurroundWith">
-        <abbreviation name="Shift+Strg+Alt+T" />
-      </action>
+      <action id="SurroundWith" />
       <action id="EditorActions" />
     </abbreviations>
   </component>
