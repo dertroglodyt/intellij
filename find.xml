@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Kotlin'" />
-    <option name="defaultScopeName" value="Project 'Kotlin'" />
-    <option name="SEARCH_SCOPE" value="Project 'Kotlin'" />
+    <option name="customScope" value="File '[Kotlin] - .../app/src/main/java/de/hdc/kotlin/MainActivity.kt'" />
+    <option name="defaultScopeName" value="File '[Kotlin] - .../app/src/main/java/de/hdc/kotlin/MainActivity.kt'" />
+    <option name="SEARCH_SCOPE" value="File '[Kotlin] - .../app/src/main/java/de/hdc/kotlin/MainActivity.kt'" />
   </component>
 </application>
