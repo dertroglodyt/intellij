@@ -1,4 +1,16 @@
 <keymap version="1" name="Default for KDE copy" parent="Default for KDE">
+  <action id="Macro.Eckige Klammern">
+    <keyboard-shortcut first-keystroke="ctrl #10000fc" />
+  </action>
+  <action id="Macro.Gescheifte Klammern">
+    <keyboard-shortcut first-keystroke="alt #10000fc" />
+  </action>
+  <action id="Macro.Runde Klammern">
+    <keyboard-shortcut first-keystroke="alt #10000d6" />
+  </action>
+  <action id="Macro.Semikolon">
+    <keyboard-shortcut first-keystroke="ctrl #10000d6" />
+  </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift ctrl alt enter" />
   </action>
