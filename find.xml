@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'physical'" />
-    <option name="defaultScopeName" value="Project 'physical'" />
-    <option name="SEARCH_SCOPE" value="Project 'physical'" />
+    <option name="customScope" value="Project 'KSPCheckList'" />
+    <option name="defaultScopeName" value="Project 'KSPCheckList'" />
+    <option name="SEARCH_SCOPE" value="Project 'KSPCheckList'" />
   </component>
 </application>
