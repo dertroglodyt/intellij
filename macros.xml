@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="curly brace">
+      <shortuct text="control alt 7" />
+    </macro>
+    <macro name="edgy brace">
+      <shortuct text="control alt 8" />
+    </macro>
+  </component>
+</application>
