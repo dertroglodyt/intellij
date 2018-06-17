@@ -1,16 +1,5 @@
 <templateSet group="Kotlin">
-  <template name="celsius" value="ˍ `°C`" description="Grade Celsius MeasureUnit" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="KOTLIN" value="true" />
-    </context>
-  </template>
   <template name="noprefix" value="ˍ " description="Prefixless MeasureUnit" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="KOTLIN" value="true" />
-    </context>
-  </template>
-  <template name="unitless" value="ˍ UNITLESS" description="Unitless MeasureUnit" toReformat="false" toShortenFQNames="true" />
-  <template name="_" value="ˍ " description="Prefixless MeasureUnit" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
     </context>
