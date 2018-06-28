@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'DesignPatterns'" />
-    <option name="defaultScopeName" value="Project 'DesignPatterns'" />
-    <option name="SEARCH_SCOPE" value="Project 'DesignPatterns'" />
+    <option name="customScope" value="Project 'physics'" />
+    <option name="defaultScopeName" value="Project 'physics'" />
+    <option name="SEARCH_SCOPE" value="Project 'physics'" />
   </component>
 </application>
