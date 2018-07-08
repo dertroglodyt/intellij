@@ -1,0 +1,17 @@
+<templateSet group="Meine">
+  <template name="_" value="ˍ " shortcut="SPACE" description="Prefixless MeasureUnit" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="°C" value="`°C`" shortcut="SPACE" description="Degree celsius" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="°" value="`°`" description="Degree" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

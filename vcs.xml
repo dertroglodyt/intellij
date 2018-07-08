@@ -3,19 +3,19 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/vic-c137/kotlin-boids.git" />
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="e3e55ef22cf78ca70dce11e734509c9ae10a1094" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/ieg/ieg.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/dertroglodyt/measure.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Tenkiv/Physikal.git" />
-          <option name="userName" value="" />
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="dertroglodyt@gmail.com" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\martin\IdeaProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
   </component>
 </application>
