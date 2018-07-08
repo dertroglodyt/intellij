@@ -1,0 +1,16 @@
+<application>
+  <component name="CCSettings">
+    <option name="isHtmlDefault" value="false" />
+  </component>
+  <component name="EduSettings">
+    <option name="lastTimeChecked" value="1531019530031" />
+    <option name="LAST_TIME_CHECKED" value="1531019530031" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+  <component name="StepicUpdateSettings">
+    <option name="lastTimeChecked" value="1508669191449" />
+    <option name="LAST_TIME_CHECKED" value="1508669191449" />
+  </component>
+</application>

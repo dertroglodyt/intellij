@@ -1,10 +1,19 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="curly brace">
-      <shortuct text="control alt 7" />
+    <macro name="curliLLeft">
+      <shortuct text="altGraph ALT_GRAPH" />
+      <typing text-keycode="55:32">{</typing>
     </macro>
-    <macro name="edgy brace">
-      <shortuct text="control alt 8" />
+    <macro name="squaredLeft">
+      <shortuct text="altGraph ALT_GRAPH" />
+      <typing text-keycode="56:32">[</typing>
+    </macro>
+    <macro name="roundedLeft">
+      <typing text-keycode="56:1">(</typing>
+    </macro>
+    <macro name="curliRight">
+      <shortuct text="altGraph ALT_GRAPH" />
+      <typing text-keycode="48:32">}</typing>
     </macro>
   </component>
 </application>
