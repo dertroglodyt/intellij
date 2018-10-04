@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'KSPCheckList'" />
-    <option name="defaultScopeName" value="Project 'KSPCheckList'" />
+    <option name="customScope" value="Project 'physics'" />
+    <option name="defaultScopeName" value="Project 'physics'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'KSPCheckList'" />
+    <option name="SEARCH_SCOPE" value="Project 'physics'" />
   </component>
 </application>
