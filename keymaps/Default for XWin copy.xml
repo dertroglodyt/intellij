@@ -1,0 +1,11 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="Macro.curliLLeft">
+    <keyboard-shortcut first-keystroke="ctrl #10000d6" />
+  </action>
+  <action id="Macro.curliRight">
+    <keyboard-shortcut first-keystroke="ctrl #10000c4" />
+  </action>
+  <action id="Macro.squaredLeft">
+    <keyboard-shortcut first-keystroke="ctrl #10000fc" />
+  </action>
+</keymap>
