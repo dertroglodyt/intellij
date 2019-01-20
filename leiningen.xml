@@ -1,0 +1,5 @@
+<application>
+  <component name="LeiningenRunnerSettings">
+    <option name="leiningenPath" value="C:\Users\martin\.lein\lein.bat" />
+  </component>
+</application>
