@@ -1,5 +1,5 @@
 <application>
   <component name="GradleSystemSettings">
-    <option name="gradleVmOptions" value="" />
+    <option name="gradleVmOptions" value="-Dorg.gradle.warning.mode=all" />
   </component>
 </application>
