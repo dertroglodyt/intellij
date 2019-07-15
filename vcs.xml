@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/nolequen/idea-inspections-plugin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Hexworks/caves-of-zircon-tutorial.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\martin\IdeaProjects" />
