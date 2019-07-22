@@ -46,4 +46,7 @@
     </option>
     <option name="cloneParentDir" value="C:\Users\martin\IdeaProjects" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
+  </component>
 </application>
