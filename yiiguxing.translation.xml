@@ -1,12 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lists" />
       <item value="override" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
-        <entry key="GERMAN" value="1" />
+        <entry key="ENGLISH" value="2" />
+        <entry key="GERMAN" value="2" />
       </map>
     </option>
   </component>
